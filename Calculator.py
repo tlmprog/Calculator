@@ -157,4 +157,3 @@ button_19.grid(row=5,column=1)
 
 root.mainloop()
 
-# Hellllllllooooooooooo
